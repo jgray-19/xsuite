@@ -18,7 +18,8 @@ The list of available models and integrators for a given element or element type
 can be obtained by calling the methods ``Element.get_available_models()`` and
 ``Element.get_available_integrators()``, respectively. Information about the different
 models and integrators is available in the section "Symplectic integrators" of
-the :doc:`Xsuite Physics Guide<physicsguide>`.
+the :doc:`Xsuite Physics Guide<physicsguide>`. A practical comparison of the
+models (when to use each, accuracy, speed) is given in the :doc:`model_guide`.
 
 The ``Line.set(...)`` method can be used to set the model, integrator and number of kicks
 for several elements in a single call.

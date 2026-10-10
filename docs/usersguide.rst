@@ -11,6 +11,7 @@
    environment
    tables
    lattice_model
+   model_guide
    survey
    twiss
    match
