@@ -338,7 +338,7 @@ snippet_files = {
         'generated_code_snippets/lossmap.py',
     'xtrack/examples/magnet_models_and_integrators/000_models_integrators.py':
         'generated_code_snippets/models_integrators.py',
-    'xtrack/examples/magnet/013_mat_kick_mat_exact_speed_accuracy.py':
+    'xtrack/examples/magnet/012_mat_kick_mat_exact_convergence_speed.py':
         'generated_code_snippets/mat_kick_mat_exact_speed_accuracy.py',
     'xtrack/examples/spin_lep/001_n0_and_eq_polarization.py':
         'generated_code_snippets/n0_and_eq_polarization.py',
